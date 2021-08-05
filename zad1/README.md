@@ -1,4 +1,4 @@
-Zadanie1:
+# Zadanie1:
 Aplikacja powinna zawierać klasę "Samochod", umożliwiającą przechowywanie określonych informacji oraz wykonanie określonych działań
 Klasa "Samochod" ma umożliać przechowywanie informacji na temat samochodu: marki,modelu,ilości drzwi,pojemność silnika oraz spalania na 100km
 Klasa "Samochod" ma umożliwiać przechowywanie informacji na temat liczby utworzonych obiektów tej klasy
