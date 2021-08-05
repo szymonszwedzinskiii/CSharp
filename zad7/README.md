@@ -1,2 +1,2 @@
-#Zadanie1:
-Zadanie polega na stworzeniu kalkulatora
+# Zadanie1:
+Zadanie polega na stworzeniu kalkulatora w WPF
